@@ -352,7 +352,7 @@ public class ShatteredScript : MonoBehaviour {
                 {
                     { "Key", "shardsToGenerate" },
                     { "Text", "Shards To Generate" },
-                    { "Description", "The number of shards each module generates.\nCan be set to a minimum of 2 and a maxmimum of 25." }
+                    { "Description", "The number of shards each module generates.\nCan be set to a minimum of 2 and a maximum of 25." }
                 },
             } }
         }
