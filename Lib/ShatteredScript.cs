@@ -346,12 +346,13 @@ public class ShatteredScript : MonoBehaviour {
         new Dictionary<string, object>
         {
             { "Filename", "ShatteredSettings.json" },
-            { "Name", "ShatteredSettings" },
-            { "Listing", new List<Dictionary<string, object>>{
+            { "Name", "Shattered Settings" },
+            { "Listings", new List<Dictionary<string, object>>{
                 new Dictionary<string, object>
                 {
                     { "Key", "shardsToGenerate" },
-                    { "Text", "The number of shards each module generates. Can be set to a minimum of 2 and a maxmimum of 25." }
+                    { "Text", "Shards To Generate" },
+                    { "Description", "The number of shards each module generates. Can be set to a minimum of 2 and a maxmimum of 25." }
                 },
             } }
         }

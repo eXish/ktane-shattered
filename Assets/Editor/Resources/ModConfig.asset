@@ -19,7 +19,7 @@ MonoBehaviour:
     creators, if you wish to change the number of shards generated then use this string
     in your mission description:\r\n\n[Shattered] value\nwhere value is a number from
     2 to 25.\n\nHTML: https://ktane.timwi.de/HTML/Shattered.html\nPDF: https://ktane.timwi.de/PDF/Shattered.pdf\n\nShattered
-    (shatteredModule) v1.0.1\nModule and Concept by eXish"
-  version: 1.0.1
+    (shatteredModule) v1.0.2\nModule and Concept by eXish"
+  version: 1.0.2
   outputFolder: build
   previewImage: {fileID: 2800000, guid: cc7003809026d57489625697af89cc70, type: 3}
